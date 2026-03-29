@@ -129,54 +129,40 @@ fun_fact: "I spend 50% of my time writing code, and the other 50% wondering why 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Profile Stats
 
 <p align="center">
-  <a href="https://github.com/arya-shah22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-shah22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-shah22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/arya-shah22?tab=repositories">
+    <img src="https://img.shields.io/github/repos/arya-shah22?style=for-the-badge&color=0D1117&labelColor=6AD3F7&logo=github&logoColor=0D1117&label=Public%20Repos" alt="Public Repos"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya-shah22&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
   <a href="https://github.com/arya-shah22">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya-shah22&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+    <img src="https://img.shields.io/github/followers/arya-shah22?style=for-the-badge&color=0D1117&labelColor=6AD3F7&logo=github&logoColor=0D1117&label=Followers" alt="Followers"/>
+  </a>
+  <a href="https://github.com/arya-shah22?tab=stars">
+    <img src="https://img.shields.io/github/stars/arya-shah22?style=for-the-badge&color=0D1117&labelColor=6AD3F7&logo=github&logoColor=0D1117&label=Stars%20Earned" alt="Stars"/>
+  </a>
+  <a href="https://github.com/arya-shah22">
+    <img src="https://img.shields.io/badge/Main_Language-Python_%7C_Dart-0D1117?style=for-the-badge&labelColor=6AD3F7&logo=github&logoColor=0D1117" alt="Top Languages"/>
   </a>
 </p>
 
 ---
 
-## 🌟 Featured Projects & Research
+## 📂 Current Public Repositories
 
-<p align="center">
-  <a href="https://github.com/arya-shah22/smart_doc_scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=smart_doc_scanner&theme=tokyonight&hide_border=true" alt="Smart Doc Scanner" />
-  </a>
-  <a href="https://github.com/arya-shah22/fts_medisure_mobile_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=fts_medisure_mobile_app&theme=tokyonight&hide_border=true" alt="Medisure Mobile App" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/arya-shah22/Medisure-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=Medisure-AI&theme=tokyonight&hide_border=true" alt="Medisure AI Platform" />
-  </a>
-  <a href="https://github.com/arya-shah22/AI_Jobs_2030_Documentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=AI_Jobs_2030_Documentation&theme=tokyonight&hide_border=true" alt="AI Jobs 2030" />
-  </a>
-</p>
+*Here are some of my primary open-source projects:*
 
----
-
-### ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
+- 📄 **[smart_doc_scanner](https://github.com/arya-shah22/smart_doc_scanner)**  
+  A high-performance Flutter plugin integrating on-device Machine Learning for real-time document edge detection and scanning.
+  
+- 🏥 **[fts_medisure_mobile_app](https://github.com/arya-shah22/fts_medisure_mobile_app)**  
+  A sophisticated mobile application featuring a complete 360° medical bottle scanning workflow with dynamic UI processing.
+  
+- 🧠 **[Medisure-AI](https://github.com/arya-shah22/Medisure-AI)**  
+  The core AI-ML forensic architecture behind Medisure, implementing dual-stream forensic encoders and U-Net anomaly detectors.
+  
+- 💼 **[AI_Jobs_2030_Documentation](https://github.com/arya-shah22/AI_Jobs_2030_Documentation)**  
+  Research and analysis dashboard projecting the global socio-economic impact of Artificial Intelligence on the labor market by 2030.
 
 ---
 
