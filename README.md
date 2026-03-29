@@ -54,7 +54,7 @@
 <table align="center" width="100%" border="0">
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkM49bPRZ/giphy.gif" width="280">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" style="border-radius:10px;">
     </td>
     <td width="60%" valign="top">
       <h2>🧩 Core Interests</h2>
