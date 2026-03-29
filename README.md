@@ -21,30 +21,62 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Arya Shah
 
-I am a highly driven **Information Technology undergraduate** and an aspiring **AI Engineer**, passionate about transforming coffee into intelligent algorithms and scalable architectures. While my code occasionally asks "Why?", I focus heavily on ensuring systems ask "How can I be better?" through Deep Learning, Computer Vision, and end-to-end ML deployments. My goal is to build real-world AI solutions that are as performant as they are impactful.
+<div align="center">
+  <p><b>🎓 B.E. in Information Technology &nbsp; | &nbsp; 📍 India 🇮🇳</b></p>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&width=530&height=30&lines=AI+Engineer+%26+Computer+Vision+Developer;Architecting+end-to-end+ML+deployments;Crafting+vision+pipelines+for+production)](https://git.io/typing-svg)
+</div>
 
-```yaml
-name: Arya Shah
-role: AI Engineer & Computer Vision Developer
-education: B.E. in Information Technology
-location: India 🇮🇳
+---
 
-what_i_do:
-  - 🚀 Building AI that solves actual problems (not just wrapping APIs)
-  - 👁️ Crafting Computer Vision pipelines for production
-  - ⚙️ Architecting end-to-end scalable ML deployments
+<p align="center">
+<i>A highly driven AI Engineer passionate about transforming coffee into intelligent algorithms and scalable architectures. Focused on ensuring systems ask "How can I be better?" through Deep Learning, Computer Vision, and impactful MLOps.</i>
+</p>
 
-interests:
-  - Deep Learning & Neural Architecture Design
-  - Medical Image Analysis & Forensic AI
-  - Mobile Edge AI (Because inference shouldn't always need a server farm)
-  - MLOps & Scalable Data Pipelines
+---
 
-quirk: "Will confidently debate with linters and occasionally win."
-fun_fact: "I spend 50% of my time writing code, and the other 50% wondering why my loss isn't converging. 📉"
-```
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 What I Do</h2>
+      <p>🧠 Building <b>AI that solves actual problems</b> <i>(not just wrapping APIs)</i>.</p>
+      <p>👁️ Crafting <b>Computer Vision pipelines</b> for production environments.</p>
+      <p>⚙️ Architecting <b>end-to-end, scalable ML deployments</b>.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280">
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvnkM49bPRZ/giphy.gif" width="280">
+    </td>
+    <td width="60%" valign="top">
+      <h2>🧩 Core Interests</h2>
+      <p>💡 <b>Deep Learning</b> & Neural Architecture Design</p>
+      <p>🩺 <b>Medical Image Analysis</b> & Forensic AI</p>
+      <p>📱 <b>Mobile Edge AI</b> <i>(Because inference shouldn't always need a server farm)</i></p>
+      <p>🔄 <b>MLOps</b> & Scalable Data Pipelines</p>
+    </td>
+  </tr>
+</table>
+
+### <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"> ⚡ Developer Quirks & Fun Facts
+
+<blockquote>
+<b>Debate Champ:</b> Will confidently debate with linters and occasionally win.
+</blockquote>
+
+<blockquote>
+<b>The Routine:</b> I spend 50% of my time writing code, and the other 50% wondering why my loss isn't converging. 📉
+</blockquote>
+
+<br/>
 
 ---
 
@@ -127,23 +159,23 @@ fun_fact: "I spend 50% of my time writing code, and the other 50% wondering why 
 </p>
 </details>
 
----
+## 🚀 The Developer Lifestyle
 
-## 📊 GitHub Profile Stats
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnkM49bPRZ/giphy.gif" alt="Coding Animation" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+</div>
+
+<br/>
 
 <p align="center">
-  <a href="https://github.com/arya-shah22?tab=repositories">
-    <img src="https://img.shields.io/github/repos/arya-shah22?style=for-the-badge&color=0D1117&labelColor=6AD3F7&logo=github&logoColor=0D1117&label=Public%20Repos" alt="Public Repos"/>
-  </a>
-  <a href="https://github.com/arya-shah22">
-    <img src="https://img.shields.io/github/followers/arya-shah22?style=for-the-badge&color=0D1117&labelColor=6AD3F7&logo=github&logoColor=0D1117&label=Followers" alt="Followers"/>
-  </a>
-  <a href="https://github.com/arya-shah22?tab=stars">
-    <img src="https://img.shields.io/github/stars/arya-shah22?style=for-the-badge&color=0D1117&labelColor=6AD3F7&logo=github&logoColor=0D1117&label=Stars%20Earned" alt="Stars"/>
-  </a>
-  <a href="https://github.com/arya-shah22">
-    <img src="https://img.shields.io/badge/Main_Language-Python_%7C_Dart-0D1117?style=for-the-badge&labelColor=6AD3F7&logo=github&logoColor=0D1117" alt="Top Languages"/>
-  </a>
+  <i>"Turning massive data streams and complex mathematics into seamless, real-world solutions."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee_Fueled-100%25-0D1117?style=for-the-badge&labelColor=6AD3F7&logo=coffeescript&logoColor=0D1117" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/Bugs_Squashed-Daily-0D1117?style=for-the-badge&labelColor=6AD3F7&logo=antdesign&logoColor=0D1117" alt="Bugs"/>
+  <img src="https://img.shields.io/badge/Late_Night_Code-Active-0D1117?style=for-the-badge&labelColor=6AD3F7&logo=moon&logoColor=0D1117" alt="Late Night"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-Unstoppable-0D1117?style=for-the-badge&labelColor=6AD3F7&logo=codeforces&logoColor=0D1117" alt="Logic"/>
 </p>
 
 ---
@@ -154,12 +186,6 @@ fun_fact: "I spend 50% of my time writing code, and the other 50% wondering why 
 
 - 📄 **[smart_doc_scanner](https://github.com/arya-shah22/smart_doc_scanner)**  
   A high-performance Flutter plugin integrating on-device Machine Learning for real-time document edge detection and scanning.
-  
-- 🏥 **[fts_medisure_mobile_app](https://github.com/arya-shah22/fts_medisure_mobile_app)**  
-  A sophisticated mobile application featuring a complete 360° medical bottle scanning workflow with dynamic UI processing.
-  
-- 🧠 **[Medisure-AI](https://github.com/arya-shah22/Medisure-AI)**  
-  The core AI-ML forensic architecture behind Medisure, implementing dual-stream forensic encoders and U-Net anomaly detectors.
   
 - 💼 **[AI_Jobs_2030_Documentation](https://github.com/arya-shah22/AI_Jobs_2030_Documentation)**  
   Research and analysis dashboard projecting the global socio-economic impact of Artificial Intelligence on the labor market by 2030.
