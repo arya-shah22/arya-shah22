@@ -133,44 +133,41 @@ fun_fact: "I spend 50% of my time writing code, and the other 50% wondering why 
 
 <p align="center">
   <a href="https://github.com/arya-shah22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-shah22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-shah22&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-shah22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-shah22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=arya-shah22&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya-shah22&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/arya-shah22">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya-shah22&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7&hide_border=true" alt="Contribution Graph" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya-shah22&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Featured Projects & Research
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arya-shah22&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <a href="https://github.com/arya-shah22/smart_doc_scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=smart_doc_scanner&theme=tokyonight&hide_border=true" alt="Smart Doc Scanner" />
+  </a>
+  <a href="https://github.com/arya-shah22/fts_medisure_mobile_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=fts_medisure_mobile_app&theme=tokyonight&hide_border=true" alt="Medisure Mobile App" />
+  </a>
 </p>
-
----
-
-## 🔝 Top Contributed Repositories
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arya-shah22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arya-shah22/arya-shah22/output/github-snake-dark.svg" alt="Snake animation" />
+  <a href="https://github.com/arya-shah22/Medisure-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=Medisure-AI&theme=tokyonight&hide_border=true" alt="Medisure AI Platform" />
+  </a>
+  <a href="https://github.com/arya-shah22/AI_Jobs_2030_Documentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arya-shah22&repo=AI_Jobs_2030_Documentation&theme=tokyonight&hide_border=true" alt="AI Jobs 2030" />
+  </a>
 </p>
 
 ---
