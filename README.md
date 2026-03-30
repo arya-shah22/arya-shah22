@@ -183,8 +183,8 @@
 
 *Here are some of my primary open-source projects:*
 
-- 📄 **[smart_doc_scanner](https://github.com/arya-shah22/smart_doc_scanner)**  
-  A high-performance Flutter plugin integrating on-device Machine Learning for real-time document edge detection and scanning.
+- 🤖 **[WhatsApp-Based_AI_Appointment_Scheduler_using_n8n](https://github.com/arya-shah22/WhatsApp-Based_AI_Appointment_Scheduler_using_n8n)**  
+  An intelligent automated assistant that handles appointment scheduling seamlessly over WhatsApp using n8n and advanced LLM pipelines.
   
 - 💼 **[AI_Jobs_2030_Documentation](https://github.com/arya-shah22/AI_Jobs_2030_Documentation)**  
   Research and analysis dashboard projecting the global socio-economic impact of Artificial Intelligence on the labor market by 2030.
